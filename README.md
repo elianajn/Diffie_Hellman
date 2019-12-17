@@ -9,5 +9,5 @@ Picking the numbers:
 * Basically, as integer k increases from 1 to p, gk mod p will hit every number between 1 and p-1.
 * No restrictions on a and b.
 
-Computational hardness is the assumption that a problem cannot be solved efficiently where ‘efficient’ is qualified as in polynomial time or less. The security of Diffie Hellman is based on ‘the discrete logarithm problem’ which is the assumption that there is no efficient way to find x in: bx = a
+Computational hardness is the assumption that a problem cannot be solved efficiently where ‘efficient’ is qualified as in polynomial time or less. The security of Diffie Hellman is based on ‘the discrete logarithm problem’ which is the assumption that there is no efficient way to find x in: bx = a.
 
